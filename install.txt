@@ -1,0 +1,6 @@
+requests
+psutil
+scapy
+speedtest-cli
+cryptography
+keyauth
