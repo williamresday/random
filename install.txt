@@ -1,3 +1,5 @@
+tkinker
+customtkinter
 requests
 psutil
 scapy
