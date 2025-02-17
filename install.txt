@@ -1,8 +1,0 @@
-tkinker
-customtkinter
-requests
-psutil
-scapy
-speedtest-cli
-cryptography
-keyauth
